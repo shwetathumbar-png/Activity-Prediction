@@ -1,0 +1,4 @@
+sckit-learn
+xgboost
+streamlit
+joblib
